@@ -1,0 +1,3 @@
+Data files (csv) should be placed in folder called "dataFiles" so that the program works.
+This is a python project which mirrors the LinkedIn website but for students specifically.
+This is an app meant to be run in the command line.
