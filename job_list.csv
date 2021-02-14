@@ -1,0 +1,11 @@
+jobID,title,description,employer,location,salary,createdBy,postedOn,marked,deleteOn
+1,Cashier,Checkout customers,Walmart,"7723 Russell st, Tampa, FL, 33610",100.5,Khalani Thompson,11/21/2019 17:20:01,IN,
+2,Rowboater,Rows boats,Rowing Corp,"273 Beilfuss Drive, New York, NY 20192",145.5,Janae Strickland,11/2/2020 8:29:01,DELETED,11/3/2020 20:56:01
+3,Professional Gamer,Games Professionally,Self-Employed,"634 E Fowler Ave, San Francisco, CA 94117",350,Qi Zheng,10/22/2020 12:29:01,DELETED,11/3/2020 20:49:01
+4,Pet Sitter,"Pet cleanup, dog walking",Pet owner,"888 W 28th St, New York, NY 10023",200,Jimmy Neutron,11/1/2020 19:22:01,IN,
+5,Food Service Worker,"Take orders, serve food and drinks",Cafe house,"36 La Follette Crossing, San Francisco, CA 94468",500,Danny Phantom,7/30/2020 14:44:01,IN,
+6,Tutor,"Subject tutoring, test preparation",University of South Florida,"4202 E Fowler Ave, Tampa, FL 33620",600,Kim Zheng,2/11/2019 21:29:01,IN,
+7,Gym Receptionist,"Sign up new members, give gym tours, clean equipment, check in guests",REC Center,"4202 E Fowler Ave, Tampa, FL 33620",550,Khalani Thompson,10/4/2020 14:17:01,IN,
+8,Rideshare Driver,Pick up and drop off riders,Uber,"33209 NW Easter Street, Boston, MA, 02133",150,Johnny Thompson,5/20/2020 8:29:01,IN,
+9,Uber Eat Driver,Pick up and drop off food,Uber,"33209 NW Easter Street, Boston, MA, 02133",100,Johnny Thompson,5/20/2020 10:29:01,IN,
+10,Customer Servers,Checkout customers,Publix,"1923 Russell st, Tampa, FL, 33610",90,Johnny Thompson,11/1/2020 17:20:01,IN,
